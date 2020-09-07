@@ -54,3 +54,5 @@ git push # follow the instructions to push a new branch
 atom .gitignore
 
 ## add patterns to ignore in the .gitignore file for example .DS_store
+
+#not sure i did this right
